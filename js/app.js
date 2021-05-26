@@ -92,4 +92,11 @@ $(document).ready(function () {
       enabled: true,
     },
   });
+
+  //slider
+
+  $(".slider").slick({
+    arrows: false,
+    autoplay: true,
+  });
 });
