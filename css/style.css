@@ -640,7 +640,7 @@ footer {
   section.work .wrapper .portfolio .portfolio_wrapper {
     margin-top: 0;
   }
-  section.contact .wrapper .right .form_group {
+  section.contact .wrapper .rigth .form_group {
     grid-template-columns: 1fr;
   }
 }
